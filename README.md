@@ -73,3 +73,16 @@ Open-Mechanical-AI/
 
 ├── community/
 │     └── README.md
+
+# OpenMechanicalAI
+
+[![Project Board](https://img.shields.io/badge/OpenMechanicalAI-Project%20Board-brightgreen?style=flat-square)](https://github.com/YOUR-USERNAME/open-mechanical-ai/projects/1)
+
+---
+
+## Project Progress
+
+We manage all tasks and contributions through our GitHub Project Board:  
+👉 [View OpenMechanicalAI Tasks Board](https://github.com/YOUR-USERNAME/open-mechanical-ai/projects/1)
+
+Feel free to pick an open task and start contributing!
