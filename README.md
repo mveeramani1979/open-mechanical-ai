@@ -53,4 +53,23 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
 ---
 
 ## Project Structure
-/docs         - Knowledge guidelines and domain structure /data         - Seeded data and verified knowledge sets /model        - Fine-tuning scripts, model configurations /community    - Contributor discussions, validations
+Open-Mechanical-AI/
+├── README.md
+
+├── LICENSE
+
+├── CONTRIBUTING.md
+
+├── CODE_OF_CONDUCT.md
+
+├── docs/
+│     └── README.md
+
+├── data/
+│     └── README.md
+
+├── model/
+│     └── README.md
+
+├── community/
+│     └── README.md
