@@ -76,13 +76,13 @@ Open-Mechanical-AI/
 
 # OpenMechanicalAI
 
-[![Project Board](https://img.shields.io/badge/OpenMechanicalAI-Project%20Board-brightgreen?style=flat-square)](https://github.com/YOUR-USERNAME/open-mechanical-ai/projects/1)
+[![Project Board](https://img.shields.io/badge/OpenMechanicalAI-Project%20Board-brightgreen?style=flat-square)](https://github.com/users/mveeramani1979/projects/2)
 
 ---
 
 ## Project Progress
 
 We manage all tasks and contributions through our GitHub Project Board:  
-👉 [View OpenMechanicalAI Tasks Board](https://github.com/YOUR-USERNAME/open-mechanical-ai/projects/1)
+👉 [View OpenMechanicalAI Tasks Board](https://github.com/users/mveeramani1979/projects/2)
 
 Feel free to pick an open task and start contributing!
